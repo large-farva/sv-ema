@@ -1,6 +1,6 @@
 # SV EMA
 
-A simple EMA (Exponential Moving Average) Tradingview indicator. \
+A simple EMA (Exponential Moving Average) Tradingview indicator.
 
 ### Features
 Based on the EMA values used by PandaTheTrader.
@@ -10,11 +10,11 @@ Based on the EMA values used by PandaTheTrader.
 - Plots EMA(200) with linewidth 4
 
 ### Installation and Usage
-1. **Copy the Pine Script
+1. **Copy the Pine Script**
 - The full script is available in sv-ema.pine (or paste it directly from below).
 
 2. **Add to Tradingview**
-- Log in to TradingView.
+- Log in to (TradingView)[tradingview.com].
 - Open the Pine Editor (bottom panel of any chart).
 - Paste the script into the editor.
 - Click "Add to Chart" to apply it.

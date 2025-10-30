@@ -1,0 +1,15 @@
+//@version=6
+
+// Created by Sebastian Vencill
+
+indicator("SV EMA", shorttitle="EMA", overlay = true)
+
+ema8    = ta.ema(close, 8)
+ema13   = ta.ema(close, 13)
+ema48   = ta.ema(close, 48)
+ema200  = ta.ema(close, 200)
+
+plot(ema8, title        = "EMA 8", color = color.rgb(0, 0, 0), linewidth = 1)
+plot(ema13, title       = "EMA 13", color = color.rgb(0, 0, 0), linewidth = 2)
+plot(ema48, title       = "EMA 48", color = color.rgb(0, 0, 0), linewidth = 3)
+plot(ema200, title      = "EMA 200", color = color.rgb(0, 0, 0), linewidth = 4)

@@ -14,7 +14,7 @@ Based on the EMA values used by PandaTheTrader.
 - The full script is available in sv-ema.pine (or paste it directly from below).
 
 2. **Add to Tradingview**
-- Log in to (TradingView)[tradingview.com].
+- Log in to [TradingView](tradingview.com).
 - Open the Pine Editor (bottom panel of any chart).
 - Paste the script into the editor.
 - Click "Add to Chart" to apply it.

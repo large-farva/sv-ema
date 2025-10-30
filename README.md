@@ -4,10 +4,10 @@ A simple EMA (Exponential Moving Average) Tradingview indicator.
 
 ### Features
 Based on the EMA values used by PandaTheTrader.
-- Plots EMA(8) with linewidth 1
-- Plots EMA(13) with linewidth 2
-- Plots EMA(48) with linewidth 3
-- Plots EMA(200) with linewidth 4
+- EMA(8) with linewidth 1
+- EMA(13) with linewidth 2
+- EMA(48) with linewidth 3
+- EMA(200) with linewidth 4
 
 ### Installation and Usage
 1. **Copy the Pine Script**

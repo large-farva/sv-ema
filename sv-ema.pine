@@ -2,7 +2,7 @@
 
 // Created by Sebastian Vencill
 
-indicator("SV EMA", shorttitle="EMA", overlay = true)
+indicator(title="SV EMA", shorttitle="EMA", overlay = true)
 
 ema8    = ta.ema(close, 8)
 ema13   = ta.ema(close, 13)
